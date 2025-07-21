@@ -1,5 +1,8 @@
 # mpets-bot
-It bot for online game mpets(amazing pets)
+# 🇺🇲 EN
+bot for online game mpets.mobi (amazing pets)
+# 🇷🇺 РУ
+бот для онлайн игры mpets.mobi (удивительные питомцы)
 
 Edit:
 `id=""
