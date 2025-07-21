@@ -4,6 +4,7 @@ bot for online game mpets.mobi (amazing pets)
 # 🇷🇺 РУ
 бот для онлайн игры mpets.mobi (удивительные питомцы)
 
+# ⭐ INFO
 Edit:
 `id=""
 PHPSESSID=""
