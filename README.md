@@ -13,3 +13,7 @@ verify=""`
 need to insert cookie values
 
 Launch: `python3 bot.py`
+
+
+## License
+This project is licensed under the GNU Affero General Public License v3.0. See the [LICENSE](LICENSE) file for details.
